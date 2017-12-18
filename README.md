@@ -17,7 +17,7 @@ baudrate so more process-time is needed compared to an "external-int" approach
 as presented in various Atmel Application-Notes.
 
 Get the latest version of this "softuart-library" including a demo-application
-[here][20101010] (timestamp 20101010).
+[here](https://github.com/ivmacs/avr-softuart/blob/master/main.c).
 
 Version History:
 
